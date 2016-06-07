@@ -1,4 +1,15 @@
-## Base on this README: https://github.com/amnh/HacktheDinos
+# Open Audio Weekend
+
+Repo for NYPL's 2016 Event, Open Audio Weekend
+
+The root directory of this repository contains data, documents, and images that are general purpose and could pertain to multiple challenges. Challenge specific data, documents, and images can be found under the challenges directory in a subdirectory with the same name as that challenge. Cloning this repository will give you local copies of all source files involved with all challenges.
+
+Don't forget to check social media for hashtag [#OpenAudio](https://twitter.com/search?f=tweets&vertical=default&q=openaudio&src=typd)!
+
+See the [**wiki**](https://github.com/nypl/OpenAudio/wiki) for all the details!
+
+Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organization page](https://github.com/nypl-openaudio)
+
 
 # Open-Audio
 
@@ -40,3 +51,9 @@ Where in the Library are we?
 New to Github? Read this [great introductory tutorial](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) on how to become an open-source software contributor via Github by [Ashley Blewer](//github.com/ablwr). 
 
 > All code you submit in the Open Audio Weekend should go to repositories you create in the [OpenAudio Organization](//github.com/nypl-openaudio)
+
+___
+
+## Open Audio Weekend Code of Conduct
+
+here
