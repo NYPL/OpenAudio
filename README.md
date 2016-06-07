@@ -34,3 +34,9 @@ Where in the Library are we?
 * NYPL to figure out how to facilitate the creation of groups [plus what physical materials can support -- idea speed dating]
 
 ## Project Areas
+
+## How to work with Github?
+
+New to Github? Read this [great introductory tutorial](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) on how to become an open-source software contributor via Github by [Ashley Blewer](//github.com/ablwr). 
+
+> All code you submit in the Open Audio Weekend should go to repositories you create in the [OpenAudio Organization](//github.com/nypl-openaudio)
