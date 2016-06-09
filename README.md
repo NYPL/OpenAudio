@@ -10,12 +10,19 @@ See the [**wiki**](https://github.com/nypl/OpenAudio/wiki) for all the details!
 
 Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organization page](https://github.com/nypl-openaudio)
 
+# Table of Contents  
+1. [Wayfinding](#wayfinding)
+2. [Schedule](#schedule)
+3. [Project Areas](#project-areas)
+4. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
+5. [Resources](#resources)
 
 # Open-Audio
 
 ## Wayfinding  
-Where in the city are we?
-Where in the Library are we?
+Open Audio Weekend is being held in the Celeste Bartos Forum of The New York Public Library's central branch, the [Stephen A. Schwarzman Building](http://www.nypl.org/locations/schwarzman). The Celeste Bartos Forum is on the ground floor of the library and is accessable through the Library entrance on 42nd Street. This entrance is wheelchair accessible. Upon entering at 42nd Street, the forum is directly opposite this entrance.  
+
+At the start of both Saturday and Sunday, event volunteers will be stations outside the entrance of the forum and available for questions. Throughout the event, staff and volunteers will be available to attendees. 
 
 ## Schedule
 
@@ -57,3 +64,8 @@ ___
 ## Open Audio Weekend Code of Conduct
 
 here
+
+
+## Resources  
+* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/)  
+Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
