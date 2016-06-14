@@ -53,9 +53,13 @@ At the start of both Saturday and Sunday, event volunteers will be stations outs
 
 ## Project Areas
 
-## How to work with Github?
+## New to Git or Github?
 
-New to Github? Read this [great introductory tutorial](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) on how to become an open-source software contributor via Github by [Ashley Blewer](//github.com/ablwr). 
+[Git](https://git-scm.com/) is a file control system that lets people share and contribute to projects (called “repositories”), most of them software projects (but some people use it for other things, like [taco recipes](https://github.com/sinker/tacofancy)). Github (the website you are on now) is a company that allows anyone to host public Git projects for free.
+
+We will use Git and Github to share the projects made during the Open Audio Weekend. If you're not a programmer, don't worry, sharing files in Github is as easy as dragging and dropping files to your browser! For a quick introduction on creating and updating a repository on Github, read the [Creating a Repository](https://help.github.com/articles/create-a-repo/) and [Adding a File to a Repository](https://help.github.com/articles/adding-a-file-to-a-repository/) tutorials. There are more examples in the [Github help](https://help.github.com/). There is also this [great introductory tutorial](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) on how to become an open-source software contributor via Github by [Ashley Blewer](//github.com/ablwr). 
+
+You can also contact any of the event volunteers wearing the blue shirts. 👕
 
 > All code you submit in the Open Audio Weekend should go to repositories you create in the [OpenAudio Organization](//github.com/nypl-openaudio)
 
